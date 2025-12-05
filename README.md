@@ -5,41 +5,47 @@ Este projeto consiste em um painel interativo para votação de personagens. Nel
 
 <img width="1105" height="931" alt="Captura de tela 2025-12-05 143421" src="https://github.com/user-attachments/assets/02af870c-bf86-46e7-b2cb-f2103bc62a69" />
 
-# Funcionalidades
+## Funcionalidades
 
--Votar em qualquer personagem
--Ver a quantidade de votos
+- Votar em qualquer personagem
+- Ver a quantidade de votos
 
 # Tecnologias Utilizadas
 
--HTML
--CSS
--JavaScript
--Git e Github
+- HTML
+- CSS
+- JavaScript
+- Git e Github
 
-# Como Rodar
+## Como Rodar
 
         1. Baixe o repositório (Clique no Botão “Code” > Download ZIP)
+		
         2. Extraia a pasta
+		
         3. Abra o arquivo index.html no navegador
 
-# Como Clonar
+## Como Clonar
 
 No terminal do VS Code digite:
+
 	git clone https://github.com/Fellipe-07/painel-personagem.git
+	
 No GitHub Desktop:
+
 	No menu: File(Arquivo) > Clone a repositor(Clonar repositório) > Selecione a aba URL, no campo URL, cole o link do repositório https://github.com/Fellipe-07/painel-personagem.git
 
 
-# Melhorias futuras
+
+## Melhorias futuras
 
   Melhoria no CSS e so poder votar uma vez em cada personagem.
 
-# O que Aprendi
+## O que Aprendi
 
   Eu aprendi a fazer um sistema de votação so com JavaScript
 
-# Autor
+## Autor
 
   Desenvolvido por Fellipe Martins  
   Turma de Tecnologia em Informática para internet (Turno Verpestino) – Senac DF
